@@ -13,7 +13,7 @@ def home():
         <title>Little Sweet Puppy</title>
     </head>
     <body>
-        <h1>Sevimli Köpek Yavrusu</h1>
+        <h1>Happy Puppy</h1>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFFdaiATWvNh91lL2C6_xlmXUJ-25HfQWDg&s" alt="Köpek Yavrusu">
     </body>
     </html>
